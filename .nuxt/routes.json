@@ -1,0 +1,38 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\takeda\\\\Desktop\\\\NuxtApp\\\\nuxt-first\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "users-list",
+    "path": "/users/list",
+    "component": "C:\\\\Users\\\\takeda\\\\Desktop\\\\NuxtApp\\\\nuxt-first\\\\pages\\\\users\\\\list.vue",
+    "chunkName": "pages/users/list"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id?",
+    "component": "C:\\\\Users\\\\takeda\\\\Desktop\\\\NuxtApp\\\\nuxt-first\\\\pages\\\\users\\\\_id.vue",
+    "chunkName": "pages/users/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\takeda\\\\Desktop\\\\NuxtApp\\\\nuxt-first\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "category",
+    "path": "/:category",
+    "component": "C:\\\\Users\\\\takeda\\\\Desktop\\\\NuxtApp\\\\nuxt-first\\\\pages\\\\_category\\\\index.vue",
+    "chunkName": "pages/_category/index"
+  },
+  {
+    "name": "category-article",
+    "path": "/:category/:article",
+    "component": "C:\\\\Users\\\\takeda\\\\Desktop\\\\NuxtApp\\\\nuxt-first\\\\pages\\\\_category\\\\_article.vue",
+    "chunkName": "pages/_category/_article"
+  }
+]
